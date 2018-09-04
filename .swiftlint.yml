@@ -1,5 +1,5 @@
 whitelist_rules:
-  - unused_enumerated
+  - unknown
   - unused_closure_parameter
   - unneeded_break_in_switch
   - trailing_whitespace
